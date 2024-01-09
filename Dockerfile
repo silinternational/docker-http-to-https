@@ -1,5 +1,5 @@
 FROM silintl/ubuntu:22.04
-MAINTAINER "Phillip Shipley" <phillip_shipley@sil.org>
+LABEL maintainer="devon_mccarty@sil.org"
 
 ENV REFRESHED_AT 2024-01-09
 ENV HTTPD_PREFIX /etc/apache2
