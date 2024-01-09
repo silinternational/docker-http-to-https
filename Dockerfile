@@ -1,4 +1,4 @@
-FROM silintl/apache2:latest
+FROM silintl/ubuntu:22.04
 MAINTAINER "Phillip Shipley" <phillip_shipley@sil.org>
 
 ENV REFRESHED_AT 2024-01-09
